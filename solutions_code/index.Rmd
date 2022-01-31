@@ -9,7 +9,7 @@ If you want to request a solution or submit a solution, please do so via [Github
 
 Solutions submitted to date:
 
-* [Chapter 2, All Data Exercises](downloads/Chapter.2.pdf) - submitted by [Jo Cao](https://www.linkedin.com/in/joanne-cao/)
+* [Chapter 2, All Data Exercises](https://github.com/keithmcnulty/peopleanalytics-regression-book/files/7964735/Chapter.2.pdf) - submitted by [Jo Cao](https://www.linkedin.com/in/joanne-cao/)
 * [Chapter 3, Discussion Exercise 3](c3_de3.html)
 * [Chapter 3, Discussion Exercise 9](c3_de9.html)
 * [Chapter 3, Data Exercise 9](c3_e9.html)
