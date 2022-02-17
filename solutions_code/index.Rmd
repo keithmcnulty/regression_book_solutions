@@ -1,7 +1,31 @@
 ---
 title: "Exercise solutions"
 output: html_document
+pagetitle: "Solutions to Handbook of Regression Modeling in People Analytics by Keith McNulty"
 ---
+
+```{r, echo = FALSE}
+# google scholar metadata
+library(metathis)
+if (knitr::is_html_output()) {
+  meta() %>%
+  meta_description(
+    "Solutions submitted by readers for the textbook Handbook of Regression Modeling in People Analytics by Keith McNulty"
+  ) %>% 
+  meta_name("github-repo" = "keithmcnulty/peopleanalytics-regression-book") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Solutions to Handbook of Regression Modeling in People Analytics by Keith McNulty",
+    url = "https://peopleanalytics-regression-book.org",
+    image = "https://peopleanalytics-regression-book/cover/coverpage-og.png",
+    image_alt = "The cover of the book Handbook of Regression Modeling in People Analytics",
+    og_type = "book",
+    og_author = c("Keith McNulty"),
+    twitter_card_type = "summary",
+    twitter_creator = "@dr_keithmcnulty"
+  )
+}
+```
 
 Solutions to exercises from [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org) requested by readers will be progressively added here.
 
