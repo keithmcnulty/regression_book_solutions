@@ -40,5 +40,6 @@ Solutions submitted to date:
 * [Chapter 3, Data Exercise 9](c3_e9.html)
 * [Chapter 4, All Data Exercises](https://github.com/keithmcnulty/peopleanalytics-regression-book/files/8056540/Chapter.4.pdf) - submitted by [Jo Cao](https://www.linkedin.com/in/joanne-cao/)
 * [Chapter 6, All Data Exercises](https://github.com/keithmcnulty/peopleanalytics-regression-book/files/8354545/Chapter.6.pdf) - submitted by [Jo Cao](https://www.linkedin.com/in/joanne-cao/)
+* [Chapter 7, All Data Exercises](https://github.com/keithmcnulty/peopleanalytics-regression-book/files/8459862/Chapter.7.pdf) - submitted by [Jo Cao](https://www.linkedin.com/in/joanne-cao/)
 
 
